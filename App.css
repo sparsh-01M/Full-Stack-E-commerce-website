@@ -1,0 +1,12 @@
+div{
+  display: block;
+  width: max-content;
+  height: 400px;
+  border: 2px solid black;
+  overflow: scroll;
+}
+img{
+  width: 300px;
+  height: 150px;
+  align-content: center;
+}
